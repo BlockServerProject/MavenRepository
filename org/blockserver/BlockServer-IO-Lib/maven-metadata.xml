@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.blockserver</groupId>
+  <artifactId>BlockServer-IO-Lib</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0-BETA-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150112234128</lastUpdated>
+  </versioning>
+</metadata>
