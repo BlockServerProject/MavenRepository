@@ -5,38 +5,38 @@
   <version>0.8-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150113.021728</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20150114.015544</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20150113021728</lastUpdated>
+    <lastUpdated>20150114015544</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.8-20150113.021728-1</value>
-        <updated>20150113021728</updated>
+        <value>0.8-20150114.015544-2</value>
+        <updated>20150114015544</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.8-20150113.021728-1</value>
-        <updated>20150113021728</updated>
+        <value>0.8-20150114.015544-2</value>
+        <updated>20150114015544</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.8-20150113.021728-1</value>
-        <updated>20150113021728</updated>
+        <value>0.8-20150114.015544-2</value>
+        <updated>20150114015544</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>uber</classifier>
         <extension>jar</extension>
-        <value>0.8-20150113.021728-1</value>
-        <updated>20150113021728</updated>
+        <value>0.8-20150114.015544-2</value>
+        <updated>20150114015544</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>min</classifier>
         <extension>jar</extension>
-        <value>0.8-20150113.021728-1</value>
-        <updated>20150113021728</updated>
+        <value>0.8-20150114.015544-2</value>
+        <updated>20150114015544</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
