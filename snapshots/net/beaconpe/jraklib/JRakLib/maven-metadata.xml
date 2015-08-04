@@ -3,9 +3,11 @@
   <groupId>net.beaconpe.jraklib</groupId>
   <artifactId>JRakLib</artifactId>
   <versioning>
+    <release>1.0.1</release>
     <versions>
       <version>1.0-SNAPSHOT</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20150803205213</lastUpdated>
+    <lastUpdated>20150804022826</lastUpdated>
   </versioning>
 </metadata>
