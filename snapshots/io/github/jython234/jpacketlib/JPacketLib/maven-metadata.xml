@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.jython234.jpacketlib</groupId>
+  <artifactId>JPacketLib</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160201232037</lastUpdated>
+  </versioning>
+</metadata>
